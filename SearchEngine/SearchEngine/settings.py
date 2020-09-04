@@ -76,7 +76,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'engine',
-        'USER' : 'mayank',
+        'USER' : 'hrithik',
         'PASSWORD' : '12345',
         'HOST' : 'localhost',
         'PORT' : '5432',
@@ -108,7 +108,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Asia/Kolkata'
+TIME_ZONE = 'Asia/Hyderabad'
 
 USE_I18N = True
 
